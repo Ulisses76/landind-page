@@ -98,10 +98,43 @@ a {
     font-style: italic;
     color: #1f2937;
     padding: 150px 500px 0px;
-    ju
+    
 }
 .assign {
     font-weight: 700;
     text-align: right;
     padding-right: 500px;
+}
+.bodydown {
+    background-color: #3882f6;
+    margin: 200px 400px 80px;
+    display: flex;
+    padding: 40px 100px;
+    color: #f9faf8;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+.calltoaction {
+    margin-bottom: 0px;
+    
+}
+.foto img {
+    border-radius: 10px;
+}
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+    padding: 1px 25px;
+}
+
+.bottom {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
